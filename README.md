@@ -1,3 +1,5 @@
+### Test 1 (PeakSegDP::cDPA versus PeakSegOptimal::PeakSegPDPA)
+
 ```R
 # Import used libraries
 library(PeakSegOptimal)
@@ -44,6 +46,4 @@ ggplot(df, aes(x=n_seq, y=cdpa_data)) + geom_line(color = 'red') + geom_line(y =
 
 
 
-```R
-
-```
+---
