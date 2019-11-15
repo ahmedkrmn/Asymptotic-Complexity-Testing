@@ -6,20 +6,6 @@ library(microbenchmark)
 library(ggplot2)
 ```
 
-    Registered S3 methods overwritten by 'ggplot2':
-      method         from 
-      [.quosures     rlang
-      c.quosures     rlang
-      print.quosures rlang
-    
-    Attaching package: 'PeakSegDP'
-    
-    The following object is masked from 'package:PeakSegOptimal':
-    
-        PoissonLoss
-
-
-​    
 
 
 ```R
